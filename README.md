@@ -3,7 +3,7 @@ Proyecto con la finalidad de comprender los Principios Solid, con ejemplos de bu
 
 ## 📚 Descripción
 
-La finalidad de este repositorio es comprender los Principios Solid mediante un ejemplo para cada uno de ellos. El lenguaje de programación utilizado para ralizar estos ejemplo va a ser Python. Los principios SOLID son un conjunto de **cinco principios de diseño** destinados a escribir software más limpio, mantenible y escalable. Fueron popularizados por **Robert C. Martin (Uncle Bob)** y son ampliamente utilizados en el desarrollo orientado a objetos.
+La finalidad de este repositorio es comprender los Principios Solid mediante un ejemplo para cada uno de ellos. El lenguaje de programación utilizado para realizar estos ejemplo va a ser Python. Los principios SOLID son un conjunto de **cinco principios de diseño** destinados a escribir software más limpio, mantenible y escalable. Fueron popularizados por **Robert C. Martin (Uncle Bob)** y son ampliamente utilizados en el desarrollo orientado a objetos.
 
 ---
 
