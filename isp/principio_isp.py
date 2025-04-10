@@ -34,3 +34,14 @@ class ImpresoraMultifuncion(Impresora, Escaner, Fax):
 
     def enviar_fax(self, documento):
         print(f"Enviando fax: {documento}")
+
+impresora_basica = ImpresoraBasica()
+impresora_multifuncion = ImpresoraMultifuncion()
+
+print("Usando Impresora Básica:")
+impresora_basica.imprimir("Documento 1")
+
+print("\nUsando Impresora Multifuncion:")
+impresora_multifuncion.imprimir("Documento 2")
+impresora_multifuncion.escanear("Documento 3")
+impresora_multifuncion.enviar_fax("Documento 3")
